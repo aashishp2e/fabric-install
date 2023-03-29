@@ -8,7 +8,7 @@
 # if version not passed in, default to latest released version
 VERSION=2.4.9
 # if ca version not passed in, default to latest released version
-CA_VERSION=1.5.5
+CA_VERSION=1.5.2
 
 REGISTRY=${FABRIC_DOCKER_REGISTRY:-docker.io/hyperledger}
 
